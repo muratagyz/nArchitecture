@@ -4,7 +4,7 @@
 
 namespace Persistence.Migrations
 {
-    public partial class Init : Migration
+    public partial class initalCreate : Migration
     {
         protected override void Up(MigrationBuilder migrationBuilder)
         {
