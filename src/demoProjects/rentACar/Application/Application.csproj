@@ -14,6 +14,13 @@
     <Folder Include="Features\Brands\Queries\GetListBrand\" />
     <Folder Include="Features\Brands\Queries\GetByIdBrand\" />
     <Folder Include="Features\Brands\Rules\" />
+    <Folder Include="Features\Models\Commands\" />
+    <Folder Include="Features\Models\Constants\" />
+    <Folder Include="Features\Models\Dtos\" />
+    <Folder Include="Features\Models\Models\" />
+    <Folder Include="Features\Models\Rules\" />
+    <Folder Include="Features\Models\Queries\" />
+    <Folder Include="Features\Models\Profiles\" />
     <Folder Include="Services\Repositories\" />
   </ItemGroup>
 
